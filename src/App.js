@@ -8,8 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Button></Button>
-        <p>Test github action.</p>
-        <p>Test github action.</p>
+        <p>Test github action successfully~!</p>
       </header>
     </div>
   );
