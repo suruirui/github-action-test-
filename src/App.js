@@ -7,7 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <Button></Button>
+        <Button msg="Action now"></Button>
+        <Button msg="Rock now"></Button>
         <p>Test github action successfully~!</p>
       </header>
     </div>
