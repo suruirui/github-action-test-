@@ -1,15 +1,15 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import Button from "./components/Button";
+import MarkUpGallery from "./components/MarkUpGallery";
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <Button msg="Action now"></Button>
-        <Button msg="Rock now"></Button>
-        <p>Test github action successfully~!</p>
+        {/* <Button msg="Rock now"></Button>  */}
+        <MarkUpGallery></MarkUpGallery>
+        <p>Test successfully~!</p>
       </header>
     </div>
   );
