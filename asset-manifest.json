@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github-action-test-/static/css/main.c1f9d89a.chunk.css",
+    "main.js": "/github-action-test-/static/js/main.b21b69b9.chunk.js",
+    "main.js.map": "/github-action-test-/static/js/main.b21b69b9.chunk.js.map",
+    "runtime-main.js": "/github-action-test-/static/js/runtime-main.bcb02c2d.js",
+    "runtime-main.js.map": "/github-action-test-/static/js/runtime-main.bcb02c2d.js.map",
+    "static/css/2.5d36b48a.chunk.css": "/github-action-test-/static/css/2.5d36b48a.chunk.css",
+    "static/js/2.876f2aa8.chunk.js": "/github-action-test-/static/js/2.876f2aa8.chunk.js",
+    "static/js/2.876f2aa8.chunk.js.map": "/github-action-test-/static/js/2.876f2aa8.chunk.js.map",
+    "index.html": "/github-action-test-/index.html",
+    "precache-manifest.3bb8e538905453e8119cec66dd11e947.js": "/github-action-test-/precache-manifest.3bb8e538905453e8119cec66dd11e947.js",
+    "service-worker.js": "/github-action-test-/service-worker.js",
+    "static/css/2.5d36b48a.chunk.css.map": "/github-action-test-/static/css/2.5d36b48a.chunk.css.map",
+    "static/css/main.c1f9d89a.chunk.css.map": "/github-action-test-/static/css/main.c1f9d89a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcb02c2d.js",
+    "static/css/2.5d36b48a.chunk.css",
+    "static/js/2.876f2aa8.chunk.js",
+    "static/css/main.c1f9d89a.chunk.css",
+    "static/js/main.b21b69b9.chunk.js"
+  ]
+}
