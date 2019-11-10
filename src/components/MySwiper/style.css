@@ -1,0 +1,45 @@
+.mSwipperWrapper {
+  position: relative;
+  height: 100%;
+}
+.swiper-container {
+  width: 100%;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ff0;
+}
+.swiper-slide {
+  width: 800px;
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  background-color: #f0f;
+}
+.gallery-top-slide img {
+  width: 800px;
+  height: 400px;
+}
+.gallery-thumbs-slide img {
+  width: 150px;
+  height: 50px;
+}
+.gallery-top {
+  height: 80%;
+  width: 100%;
+  background-color: #00f;
+}
+.gallery-thumbs {
+  height: 20%;
+  box-sizing: border-box;
+  padding: 10px 0;
+  background-color: #0ff;
+}
+.gallery-thumbs .swiper-slide {
+  height: 100%;
+  opacity: 0.4;
+  background-color: #ff223f;
+}
+.gallery-thumbs .swiper-slide-thumb-active {
+  opacity: 1;
+}
